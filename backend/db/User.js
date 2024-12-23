@@ -23,7 +23,7 @@ module.exports = mongoose.model("users", userSchema);
 
 
 
-// Simpe Code Node try and catch
+// Simpe Code No try and catch
 
 // const mongoose=require('mongoose');
 
